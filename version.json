@@ -1,5 +1,5 @@
 {
   "version": "0.1.3",
-  "min_version": "0.0.1",
-  "changelog": "Release 0.1.3"
+  "min_version": "0.1.3",
+  "changelog": "AES-only distribution, all .NET files encrypted, HWID binding"
 }
