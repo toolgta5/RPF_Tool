@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "min_version": "0.1.1",
-  "changelog": "HWID-bound encryption, version check enforced"
+  "version": "0.1.2",
+  "min_version": "0.0.1",
+  "changelog": "Release 0.1.2"
 }
