@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "min_version": "0.1.6",
-  "changelog": "DPAPI encryption, no keys in binary"
+  "version": "0.1.6.1",
+  "min_version": "0.1.6.1",
+  "changelog": "Release 0.1.6.1"
 }
